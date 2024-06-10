@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Technote",
+    "imageSrc": "projects/project.png",
+    "description": "Fullstack website for manager and employee to track work by create note.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://technote-446d.onrender.com/",
+    "source": "https://github.com/ThienBach13/techNote-frontend"
+  },
+  {
+    "title": "DIGI-MODE",
+    "imageSrc": "projects/digi-mode.png",
+    "description": "A Virtual Reality(VR) training simulator for the construction industry.",
+    "skills": ["Unity", "VR", "C#"],
+    "demo": "https://www.youtube.com/watch?v=HbWwQmEVUvA",
+    "source": "http://www.digi-mode.eu/construction-training.html"
+  },
+  {
+    "title": "E-commerce store",
+    "imageSrc": "projects/project.png",
+    "description": "This is a fullstack web for an e-commerce.",
+    "skills": ["React", "ASP", "PostgresSQL"],
+    "demo": "https://master--thien-e-commerce-store.netlify.app/",
+    "source": "https://github.com/ThienBach13/e-commerce-store"
+  }
+]
